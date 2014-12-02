@@ -1,0 +1,64 @@
+#1223.2015      OI 988a          0.23737  fval = 0.000553, so this line cannot be detected. Predicted Wr = 2mA!
+#1223.2969      OI 988b          0.23737  fval = 0.0083. predict Wr = 30mA. very weak
+#1224.7125    NIII 989           0.23737  This ID is wrong. Lines are too broad, the profile mismatches NII 1083, and there is a galaxy at the precise position of this line. It is most likely Lya
+#1224.9846      HI 1215          0.00769   VCC0201 at rho=9.991arcmin and v=0.007687. Not real. This line is NIII 989 at z=0.23737
+1142.2459      HI 923           0.23737
+1143.1977    FeII 1143         -0.00002
+1144.9095    FeII 1144         -0.00002
+1146.0511      HI 926           0.23737  W=0.600 A
+1151.6471      HI 930           0.23737  W=0.599 A
+1160.3767      HI 937           0.23737  W=0.656 A
+1168.3431      HI 1025          0.13905
+1175.1500      HI 949           0.23737  W=0.686 A
+1190.3863    SiII 1190         -0.00002
+1193.2601    SiII 1193         -0.00002
+1199.5199      NI 1199         -0.00002
+1200.1936      NI 1200         -0.00002
+1200.6801      NI 1200c        -0.00002
+1202.3650      OI 971           0.23737  Wr =  47 +/- 11mA  fval = 0.0116
+1203.3534      HI 972           0.23737  W = 0.761 A
+1206.4701   SiIII 1206         -0.00002
+1208.1930      OI 976_B!        0.23737  Wr = 124 +/- 10mA  fval = 0.003310.  THIS LINE IS THEREFORE BLENDED!
+1208.9006    CIII 977           0.23737  DLA
+1215.6400      HI 1215         -0.00002  W=0
+1223.0385      HI 1215          0.00606  W=.222 Wr = 222 +/- 9mA. 
+1223.4108      HI 1215          0.00637  W=.280 Wr = 280 +/- 13mA. 
+1223.4435      OI 988           0.23737  Wr = 183 +/-  8mA  fval = 0.0465
+1223.6906      HI 1215          0.00660  W=0.060 Wr = 60 +-/ 9mA. Spiral SDSS J121623.59+071539.9 at z=0.00659. rho = ~4arcmin
+1224.7144      HI 1215          0.00744  W=0.400 ; SDSS J121709.88+071129.6 at zgal = 0.0074 +/- 0.0014 rho = ~8aErcmin = ~75kpc. Wr = 397 +/- 16mA
+#1231.0527      HI 1215_??       0.01265   BLA from virgo subclump falling in? v ~ 3800km/s. Matches SDSS J121724.17+070226.3  at rho=14.7arcsec v = 3733km/s; z=0.012453
+1230.9713      HI 1215          0.01259 W=.5  guess
+1231.2832      HI 1215          0.01284 W=.5  guess
+1244.1256      HI 1215          0.02344  W=0.334 A
+1250.5530     SII 1250         -0.00002
+1253.7799     SII 1253         -0.00002
+1259.4878     SII 1259         -0.00002
+1260.3909    SiII 1260         -0.00002
+1262.9460    SiII 1020          0.23737  DLA
+1269.1617      HI 1025          0.23737  W=0.869 A; a potential DLA; a galaxy is identified spectroscopically at 3.3 arcsec west of the QSO
+1276.8378     OVI 1031          0.23737  DLA
+1280.4795      HI 926           0.38247  W=0.044 A
+1282.2952     CII 1036          0.23737  DLA
+1283.8790     OVI 1037          0.23737  DLA
+1302.1362      OI 1302         -0.00002
+1304.3379    SiII 1304         -0.00002
+1305.2605      HI 1215          0.07370   NED galaxy 2MASX J12172638+0721529 at rho=14.8arcmin z=0.07376
+#1312.9089      HI 972           0.34998   HI972 is slightly offset, but in the expected line-strength ratio. HI949 lost, and HI937 below detection limit; *** wrong ID ***
+1312.9917      HI 949           0.38247  W=0.127 A
+1319.7537      HI 1215          0.08562  W=0.093 A; 
+1334.4992     CII 1334         -0.00002
+1335.6746    CII* 1335         -0.00002
+1341.2583     NII 1083          0.23737  DLA
+1344.5033      HI 972           0.38247  W=0.190 A
+1350.7012    CIII 977           0.38247
+1384.7085      HI 1216          0.13905  W=0.428 A; SDSS J121632.42+070955.8 & SDSS J121638.73+071025.1  at z=0.137
+1388.9019   FeIII 1122          0.23737  DLA
+1393.7205    SiIV 1393         -0.00002
+1396.0098      HI 1215          0.14834  W=0.094 A
+1402.7352    SiIV 1402         -0.00002
+1416.6712    FeII 1144          0.23737  DLA
+1418.0306      HI 1025          0.38247  W=0.239 A
+1426.6072     OVI 1031          0.38247   strongly blend with two HI components
+1426.7246      HI 1215          0.17361
+1426.9191      HI 1215          0.17377   
+1434.4743     OVI 1037          0.38247
